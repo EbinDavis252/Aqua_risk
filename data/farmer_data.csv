@@ -1,0 +1,6 @@
+farmer_id,age,income,loan_amount,region,loan_term,previous_default,farm_type,loan_default
+F001,35,50000,80000,Andhra,12,0,Freshwater,0
+F002,42,30000,100000,TamilNadu,24,1,Brackish,1
+F003,28,60000,50000,Kerala,6,0,Freshwater,0
+F004,50,25000,120000,Andhra,18,1,Brackish,1
+F005,37,70000,90000,Karnataka,12,0,Freshwater,0
